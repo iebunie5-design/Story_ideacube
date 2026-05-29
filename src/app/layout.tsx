@@ -2,20 +2,19 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://kareer-lab.example.com"),
+  metadataBase: new URL("https://story-ideacube.local"),
   title: {
-    default: "한국진로진학연구원 | 프리미엄 진로·진학 SaaS",
-    template: "%s | 한국진로진학연구원"
+    default: "부여 AI STORY",
+    template: "%s | 부여 AI STORY"
   },
-  description:
-    "학생부 분석, 주제탐구, 세특 준비, 진로·진학 강의를 한 곳에서 체계적으로 제공하는 프리미엄 교육 SaaS 플랫폼입니다.",
-  keywords: ["한국진로진학연구원", "학생부 분석", "주제탐구", "세특", "입시 정보", "진로 진학"],
+  description: "부여 AI센터 키오스크용 AI 동화 만들기 체험 앱입니다.",
+  keywords: ["부여 AI STORY", "AI 동화", "키오스크", "부여", "동화 만들기"],
   openGraph: {
-    title: "한국진로진학연구원",
-    description: "막막했던 학생부와 입시 준비를 실전 중심으로 체계화합니다.",
+    title: "부여 AI STORY",
+    description: "AI와 함께 나만의 동화를 만드는 키오스크 체험 앱입니다.",
     type: "website",
     locale: "ko_KR",
-    images: [{ url: "/images/hero-student-main.webp", width: 1536, height: 1024 }]
+    images: [{ url: "/images/story-default-bg.png", width: 1024, height: 1024 }]
   }
 };
 
