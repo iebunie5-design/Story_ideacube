@@ -6,13 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "serve:out": "serve out -l tcp://127.0.0.1:3000",
     "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "next": "14.2.35",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "serve": "^14.2.6"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",

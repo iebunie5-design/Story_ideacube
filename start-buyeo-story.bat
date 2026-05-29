@@ -13,7 +13,7 @@ start "Buyeo Story Proxy" /min /D "%ROOT%story-proxy" node server.js
 timeout /t 3 /nobreak > nul
 
 echo [%date% %time%] Starting Buyeo AI Story app...>> "%LOG_DIR%\startup.log"
-start "Buyeo Story App" /min /D "%ROOT%" npm.cmd run start -- -H 127.0.0.1 -p 3000
+start "Buyeo Story App" /min /D "%ROOT%" npm.cmd run serve:out
 
 timeout /t 8 /nobreak > nul
 
