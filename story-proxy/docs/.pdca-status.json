@@ -1,0 +1,175 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-05-27T02:01:56.773Z",
+  "activeFeatures": [
+    "story-proxy",
+    "story"
+  ],
+  "primaryFeature": "story-proxy",
+  "features": {
+    "story-proxy": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-27T01:16:39.338Z",
+        "lastUpdated": "2026-05-27T02:01:33.489Z"
+      },
+      "lastFile": "c:\\Users\\iebun\\Documents\\kareer-lab\\story-proxy\\server.js"
+    },
+    "story": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-27T01:17:31.065Z",
+        "lastUpdated": "2026-05-27T02:01:56.773Z"
+      },
+      "lastFile": "c:\\Users\\iebun\\Documents\\kareer-lab\\src\\story\\storyEngine.ts"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-05-27T00:52:51.747Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-05-27T02:01:56.773Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-05-27T01:16:39.338Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:16:49.036Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:16:55.249Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:17:05.884Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:17:31.065Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:17:38.025Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:17:46.760Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:17:53.855Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:45:49.636Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:45:59.022Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:47:06.345Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:47:15.563Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:47:44.077Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:48:01.214Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:48:07.639Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:48:32.929Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T01:58:06.784Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T02:01:17.955Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T02:01:28.577Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T02:01:33.489Z",
+      "feature": "story-proxy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-27T02:01:56.773Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    }
+  ]
+}
